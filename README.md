@@ -24,12 +24,11 @@ let otaviomalta = {
 
 <br/>
 
-<div style="display: inline_block">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&show_icons=true&t&theme=react"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&show_icons=true&t&theme=react"/><br/><br/>
 
  <a href="https://github.com/OtavioMalta">
- <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&langs_count=20&title_icons=true&t&theme=react"/>
-<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&langs_count=20&title_icons=true&t&theme=react"/>
+
  
  #
  
