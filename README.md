@@ -28,7 +28,7 @@ let otaviomalta = {
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&show_icons=true&t&theme=react"/>
 
  <a href="https://github.com/OtavioMalta">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&langs_count=20&title_icons=true&t&theme=react"/>
+ <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&langs_count=20&title_icons=true&t&theme=react"/>
 <div>
  
  #
