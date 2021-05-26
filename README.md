@@ -31,7 +31,7 @@ let otaviomalta = {
 
  <div style="display: inline-block">
  <img width="450em" height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&show_icons=true&t&theme=react"></div></br>
- <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&langs_count=20&title_icons=true&t&theme=react"></a>
+
  <br/>
  
  #
