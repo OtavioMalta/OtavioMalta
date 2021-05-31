@@ -1,5 +1,3 @@
-[Snake animation](https://github.com/OtavioMalta/OtavioMalta/blob/output/github-contribution-grid-snake.svg)
-
 <div style="display: inline_block">
 <h3>I little bit about me:</h3>
 
@@ -45,5 +43,6 @@ let otaviomalta = {
 <a href="https://www.instagram.com/otaviomalta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/otavio-malta-2b1754118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
- 
+ [Snake animation](https://github.com/OtavioMalta/OtavioMalta/blob/output/github-contribution-grid-snake.svg)
+
 </a>
