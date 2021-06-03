@@ -12,8 +12,10 @@
  <img align="center" alt="Panda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Panda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  <img align="center" alt="Panda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/python/python-original.svg">
-<img align="center" alt="Panda-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/haskell/haskell-original.svg"></div></br>
-
+<img align="center" alt="Panda-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/haskell/haskell-original.svg">
+<img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/c/c-original.svg
+">
+</div></br>
 
 
 ```javascript
