@@ -17,7 +17,6 @@
 <img align="center" alt="Panda-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/haskell/haskell-original.svg">
 </div></br>
 
-
 ```javascript
 let otaviomalta = {
     age: 19,
@@ -33,9 +32,12 @@ let otaviomalta = {
 
  <div style="display: inline-block">
  <img width="450em" height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&show_icons=true&t&theme=react"></div></br>
-  <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&langs_count=20&title_icons=true&t&theme=react"></a>
-
+  <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&langs_count=20&title_icons=true&t&theme=react"></a
  <br/>
+ 
+ #
+ 
+ ![Snake animation](https://github.com/OtavioMalta/OtavioMalta/blob/output/github-contribution-grid-snake.svg)
  
  #
  
@@ -45,4 +47,4 @@ let otaviomalta = {
 <a href="https://www.instagram.com/otaviomalta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/otavio-malta-2b1754118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>
 
-![Snake animation](https://github.com/OtavioMalta/OtavioMalta/blob/output/github-contribution-grid-snake.svg)
+
