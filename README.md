@@ -22,9 +22,9 @@ let otaviomalta = {
     age: 19,
     country: 'Brazil',
     city: 'Franca, Sp',
-    stack: ['HTML','CSS','Javascript', 'Python','Haskell'],
-    interestedIn: ['Python', 'Flask', 'Django', 'Vue'],
-    hobbies: ['Games','Movies', 'Animes', 'Meet cool people']
+    stack: ['HTML','CSS','Javascript', 'Python','Haskell', 'Java'],
+    interestedIn: ['Django', 'Java', 'Spring'],
+    hobbies: ['Games','Movies', 'Animes']
 };
 ```
 
