@@ -25,7 +25,7 @@ let otaviomalta = {
  <div style="display: inline-block">
  <img width="450em" height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&show_icons=true&t&theme=react"></div></br>
   <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&langs_count=20&title_icons=true&t&theme=react"></a
- <br/>
+ 
  
  #
  
@@ -33,7 +33,7 @@ let otaviomalta = {
  
  #
  
-<div> <br/>📫 How to reach me: <br/> 
+<div> 📫 How to reach me: <br/> 
 <a href = "mailto: otaviomalta159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://twitter.com/taveska" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/otaviomalta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
