@@ -1,21 +1,4 @@
 <div style="display: inline_block">
-<h3>I little bit about me:</h3>
-
-<p align="left">
-    🔭 I’m currently working on improving my development skills
-</p>
-<p align="left">
-    🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
-</p></div>
-<div style="display: inline-block">
- <img align="center" alt="Panda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Panda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Panda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- <img align="center" alt="Panda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/python/python-original.svg">
-    <img align="center" alt="Panda-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/c/c-original.svg">
-    <img align="center" alt="Panda-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="Panda-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/haskell/haskell-original.svg">
-</div></br>
 
 ```javascript
 let otaviomalta = {
@@ -27,7 +10,16 @@ let otaviomalta = {
     hobbies: ['Games','Movies', 'Animes']
 };
 ```
-
+<div style="display: inline-block">
+ <img align="center" alt="Panda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Panda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Panda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="Panda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/python/python-original.svg">
+    <img align="center" alt="Panda-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/c/c-original.svg">
+    <img align="center" alt="Panda-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Panda-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/haskell/haskell-original.svg">
+</div>
+    
 #
 
  <div style="display: inline-block">
