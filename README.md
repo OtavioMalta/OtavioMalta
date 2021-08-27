@@ -6,7 +6,7 @@ let otaviomalta = {
     country: 'Brazil',
     city: 'Franca, Sp',
     stack: ['HTML','CSS','Javascript', 'Python','Haskell', 'Java'],
-    interestedIn: ['Django', 'Java', 'Spring'],
+    interestedIn: ['Django', 'Java', 'Spring', 'Docker'],
     hobbies: ['Games','Movies', 'Animes']
 };
 ```
