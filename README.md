@@ -51,8 +51,11 @@ let otaviomalta = {
  
 <div> 📫 How to reach me: <br/> 
 <a href = "mailto: otaviomalta159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://twitter.com/taveska" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://www.instagram.com/otaviomalta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://www.linkedin.com/in/otavio-malta-2b1754118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>
 
 
