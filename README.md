@@ -10,6 +10,9 @@ let otaviomalta = {
     hobbies: ['Games','Movies', 'Animes']
 };
 ```
+#
+    
+<br/> 
 <div style="display: inline-block">
 <img align="center" alt="Panda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -28,15 +31,15 @@ let otaviomalta = {
 <img align="center" alt="Panda-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img align="center" alt="Panda-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-   
 </div>
     
 #
+<br/> 
 
  <div style="display: inline-block">
  <img width="450em" height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&show_icons=false&t&theme=dark"></div></br>
   <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&langs_count=20&title_icons=true&t&theme=dark"></a
- 
+
  
  #
  
