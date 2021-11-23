@@ -3,7 +3,18 @@
 ## Olá!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### Sou o Otávio Malta, programador Back-End em busca de me tornar Full-Stack!
     
-#
+
+ 
+    
+<br/> 
+
+ <div  align="center">
+ <a href="https://github.com/OtavioMalta"></a>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=OtavioMalta&hide_border=true&theme=nightowl&show_icons=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
+</div>
+
 
 <br/> 
 <div style="display: inline_block" align="center">
@@ -25,18 +36,6 @@
  
  ![Snake animation](https://github.com/OtavioMalta/OtavioMalta/blob/output/github-contribution-grid-snake.svg)
  
- #
- 
-    
-<br/> 
-
- <div  align="center">
- <a href="https://github.com/OtavioMalta"></a>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=OtavioMalta&hide_border=true&theme=nightowl&show_icons=true"/>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
-</div>
-
  #
     
 <div align="center"> 📫 How to reach me: <br/> 
