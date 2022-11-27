@@ -12,11 +12,9 @@
 
  <div  align="center">
  <a href="https://github.com/OtavioMalta"></a>
- <div align="center">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> 
           <!--<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=OtavioMalta&hide_border=true&theme=nightowl&show_icons=true"/>-->
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMalta&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true"> 
- </div>
 </div>
 
 
