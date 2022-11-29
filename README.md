@@ -54,6 +54,8 @@
  </br>
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=OtavioMalta.OtavioMalta&color=00cf00) 
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=OtavioMalta.OtavioMalta&color=00cf00) 
     </div>
 
  
