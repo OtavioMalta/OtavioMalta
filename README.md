@@ -37,7 +37,6 @@
 
  ![Snake animation](https://github.com/OtavioMalta/OtavioMalta/blob/output/github-contribution-grid-snake.svg)
  
- 
  #
     
 <div align="center"> 📫 How to reach me: <br/> 
@@ -52,8 +51,6 @@
     
  <br>
  </br>
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=OtavioMalta.OtavioMalta&color=00cf00) 
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=OtavioMalta.OtavioMalta&color=00cf00) 
     </div>
