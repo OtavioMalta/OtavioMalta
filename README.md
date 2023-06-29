@@ -5,6 +5,7 @@
 
 
     -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  <div  align="center">
  <a href="https://github.com/OtavioMalta"></a>
           <img height="140em" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> 
@@ -43,3 +44,4 @@
 </div>
 
  
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
