@@ -27,7 +27,7 @@
 &nbsp&nbsp
 <img align="center" alt="Panda-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
 &nbsp&nbsp
-<img align="center" alt="Panda-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+<img align="center" alt="Panda-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">&nbsp&nbsp
 </div>
 
  ![Snake animation](https://github.com/OtavioMalta/OtavioMalta/blob/output/github-contribution-grid-snake.svg)
@@ -40,8 +40,9 @@
     &nbsp
 <a href="https://www.instagram.com/otaviomalta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     &nbsp
-<a href="https://www.linkedin.com/in/otavio-malta-2b1754118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/otavio-malta-2b1754118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br><br>
+    
+ ![](https://api.visitorbadge.io/api/VisitorHit?user=OtavioMaltaf&countColor=%237B1E7A)
 </div>
 
- ![](https://api.visitorbadge.io/api/VisitorHit?user=OtavioMaltaf&countColor=%237B1E7A)
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
