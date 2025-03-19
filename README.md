@@ -5,7 +5,7 @@
 
 
     -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
  <div  align="center">
  <a href="https://github.com/OtavioMalta"></a>
           <img height="140em" src="https://github-readme-stats.vercel.app/api?username=OtavioMalta&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> 
@@ -32,15 +32,16 @@
 
  ![Snake animation](https://github.com/OtavioMalta/OtavioMalta/blob/output/github-contribution-grid-snake.svg)
  </br>
-    
+ <!--   
 <div align="center"> 
 <a href = "mailto: otaviomalta159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
     &nbsp
-<!--<a href="https://twitter.com/taveska" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/taveska" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     &nbsp
 <a href="https://www.instagram.com/otaviomalta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    &nbsp-->
+    &nbsp-
 <a href="https://www.linkedin.com/in/otavio-malta-2b1754118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br><br>
+->
     
  ![](https://api.visitorbadge.io/api/VisitorHit?user=OtavioMaltaf&countColor=%237B1E7A)
 </div>
